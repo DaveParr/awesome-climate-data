@@ -24,7 +24,9 @@ Fork me, add to me, and PR me!
 * [UK Live csv tables on EPCs that exist](https://www.gov.uk/government/statistical-data-sets/live-tables-on-energy-performance-of-buildings-certificates)
 * [UK Gridwatch datasets](https://gridwatch.co.uk/downloads)
 * [UK taded carbon values](https://www.gov.uk/government/collections/carbon-valuation--2)
-* [List of National level 2050 enrgy opathway calculators (scroll down a bit)](https://www.gov.uk/guidance/international-outreach-work-of-the-2050-calculator)
+* [Uk flood maps for different scanerios](https://data.gov.uk/search?q=flood+map&filters%5Bpublisher%5D=&filters%5Btopic%5D=&filters%5Bformat%5D=)
+
+* [List of National level 2050 energy pathway calculators (scroll down a bit)](https://www.gov.uk/guidance/international-outreach-work-of-the-2050-calculator)
 
 ### City
 
