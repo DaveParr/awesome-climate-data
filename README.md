@@ -6,6 +6,7 @@ Fork me, add to me, and PR me!
 ## Data Sets
 
 * [UK Environmental Performance Certificates API](https://epc.opendatacommunities.org/docs/api)
+* [IPCC Data](http://ipcc-data.org/)
 
 ## Companies
 
@@ -14,6 +15,9 @@ Fork me, add to me, and PR me!
 * [tmrow](https://www.tmrow.com/mission)
 
 ## Packages
+
+* [CRAN Environmetrics Task View](https://cran.r-project.org/web/views/Environmetrics.html)
+* [CRAN Hydrology Task View](https://cran.r-project.org/web/views/Hydrology.html)
 
 ## Blogs + Articles
 
