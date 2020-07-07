@@ -1,6 +1,8 @@
 # Awesome Climate Change Data Resources
 A list of resources for data science work on climate change
 
+Fork me, add to me, and PR me!
+
 ## Data Sets
 
 * [UK Environmental Performance Certificates API](https://epc.opendatacommunities.org/docs/api)
