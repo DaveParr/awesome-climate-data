@@ -1,4 +1,4 @@
-# awesome-climate-data
+# Awesome Climate Change Data Resources
 A list of resources for data science work on climate change
 
 ## Data Sets
