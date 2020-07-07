@@ -14,3 +14,7 @@ A list of resources for data science work on climate change
 ## Blogs + Articles
 
 * [R Open Sci Climate tag](https://ropensci.org/tags/climate/)
+
+## Communities
+
+* [ClimateAction.Tech](https://climateaction.tech/)
