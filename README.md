@@ -19,3 +19,7 @@ A list of resources for data science work on climate change
 ## Communities
 
 * [ClimateAction.Tech](https://climateaction.tech/)
+
+## Meta
+
+* [modernising energy data wiki](https://modernisingenergydata.atlassian.net/wiki/spaces/MED/overview)
