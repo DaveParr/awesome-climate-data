@@ -1,6 +1,8 @@
 # Awesome Climate Change Data Resources
 A list of resources for data science work on climate change
 
+Fork me, add to me, and PR me!
+
 ## Data Sets
 
 ### Global
@@ -9,6 +11,7 @@ A list of resources for data science work on climate change
 * [EPW Weather files (for Ladybug on Grasshopper, but adaptable)](https://www.ladybug.tools/epwmap/)
 * [Renewable Ninja - front end for NASA dataset](https://www.renewables.ninja/)
 * [One of many NASA datasets. This one covers precipitation](https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGHH_06/summary?keywords=IMERG)
+* [IPCC Data](http://ipcc-data.org/)
 
 * [ Keen cyclist route heatmap](https://www.strava.com/heatmap)
 * [Havard atlas of economic complexity downloads](https://atlas.cid.harvard.edu/data-downloads)
@@ -27,18 +30,19 @@ A list of resources for data science work on climate change
 
 * [Bogota Air Quality city data](http://influxdb.canair.io:8000/d/xRQpZACWk/static-stations?orgId=1&refresh=10s)
 
-
-
 ## Companies
 
 * [appsilon AI for Good](https://appsilon.com/ai-for-good/)
 * [Open Climate Fix](https://openclimatefix.org/)
+* [tmrow](https://www.tmrow.com/mission)
 * [ICAX - good for seasonal heat trasnfer info](https://www.icax.co.uk/Getting_Serious_about_Net_Zero.html)
-
 
 ## Packages
 * [ Ladybug tools for Python (and grasshopper/dynamo](https://github.com/ladybug-tools)
 
+
+* [CRAN Environmetrics Task View](https://cran.r-project.org/web/views/Environmetrics.html)
+* [CRAN Hydrology Task View](https://cran.r-project.org/web/views/Hydrology.html)
 
 ## Blogs + Articles
 
