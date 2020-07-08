@@ -14,7 +14,7 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 * [IPCC Data](http://ipcc-data.org/)
 
 
-## Companies
+## Open source organisations
 
 * [appsilon AI for Good](https://appsilon.com/ai-for-good/)
 * [Open Climate Fix](https://openclimatefix.org/)
