@@ -14,22 +14,20 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 * [IPCC Data](http://ipcc-data.org/)
 
 
-## Open source organisations
+## Open Source Organisations
 
 * [appsilon AI for Good](https://appsilon.com/ai-for-good/)
 * [Open Climate Fix](https://openclimatefix.org/)
 * [tmrow](https://www.tmrow.com/mission)
 
-## Packages
+## Packages, Modules and Software
 
-* [CRAN Environmetrics Task View](https://cran.r-project.org/web/views/Environmetrics.html)
-* [CRAN Hydrology Task View](https://cran.r-project.org/web/views/Hydrology.html)
-* [tidyhat](https://github.com/ropensci/tidyhydat) An R package to import Water Survey of Canada hydrometric data and make it tidy
 * [API Client for Climate Hazards Group InfraRed Precipitation with Station Data](https://docs.ropensci.org/chirps/)
 * [stplanr for sustainable transport planning](https://docs.ropensci.org/stplanr/)
 
 ## Communities
 
+* [useRs Tackling Climate Change](https://userstackling-uny5880.slack.com/join/shared_invite/zt-fkocefo6-kkRLrPqPI5WQR5P~HLdm9A#/)
 * [ClimateAction.Tech](https://climateaction.tech/)
 
 ## Meta
