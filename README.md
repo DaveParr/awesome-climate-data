@@ -1,7 +1,12 @@
 # Awesome Climate Change Data Resources
-A list of resources for data science work on climate change
 
-Fork me, add to me, and PR me!
+## Mission
+
+> We are making a human curated index of easily accessible, comprehensive and up-to-date data sources, maintained and relevant programming libraries, and mission focussed open-source projects to increase our awareness and ability to act on the climate emergency.
+
+## Contributing
+
+Before proposing changes, please read the `CONTRIBUTING.MD` to understand in more depth what we are looking for.
 
 ## Data Sets
 
