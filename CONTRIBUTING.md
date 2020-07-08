@@ -1,4 +1,4 @@
-## Motivation
+## Mission
 
 >We are making a human curated index of easily accessible, comprehensive and up-to-date data sources, maintained and relevant programming libraries, and mission focussed open-source projects to increase our awareness and ability to act on the climate emergency.
 
