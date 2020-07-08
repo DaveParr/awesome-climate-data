@@ -13,18 +13,12 @@ Fork me, add to me, and PR me!
 * [One of many NASA datasets. This one covers precipitation](https://disc.gsfc.nasa.gov/datasets/GPM_3IMERGHH_06/summary?keywords=IMERG)
 * [IPCC Data](http://ipcc-data.org/)
 
-* [ Keen cyclist route heatmap](https://www.strava.com/heatmap)
-* [Havard atlas of economic complexity downloads](https://atlas.cid.harvard.edu/data-downloads)
-* [Open Street map API](https://operations.osmfoundation.org/policies/api/)
-
-
 ### National
 
 * [UK Environmental Performance Certificates API](https://epc.opendatacommunities.org/docs/api)
 * [UK Live csv tables on EPCs that exist](https://www.gov.uk/government/statistical-data-sets/live-tables-on-energy-performance-of-buildings-certificates)
 * [UK Gridwatch datasets](https://gridwatch.co.uk/downloads)
 * [UK taded carbon values](https://www.gov.uk/government/collections/carbon-valuation--2)
-* [Uk flood maps for different scanerios](https://data.gov.uk/search?q=flood+map&filters%5Bpublisher%5D=&filters%5Btopic%5D=&filters%5Bformat%5D=)
 
 * [List of National level 2050 energy pathway calculators (scroll down a bit)](https://www.gov.uk/guidance/international-outreach-work-of-the-2050-calculator)
 
