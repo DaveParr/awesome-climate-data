@@ -7,7 +7,7 @@ Fork me, add to me, and PR me!
 
 * [UK Environmental Performance Certificates API](https://epc.opendatacommunities.org/docs/api)
 * [IPCC Data](http://ipcc-data.org/)
-* [API Client for Climate Hazards Group InfraRed Precipitation with Station Data](https://docs.ropensci.org/chirps/)
+
 
 ## Companies
 
@@ -19,6 +19,8 @@ Fork me, add to me, and PR me!
 
 * [CRAN Environmetrics Task View](https://cran.r-project.org/web/views/Environmetrics.html)
 * [CRAN Hydrology Task View](https://cran.r-project.org/web/views/Hydrology.html)
+* [API Client for Climate Hazards Group InfraRed Precipitation with Station Data](https://docs.ropensci.org/chirps/)
+* [stplanr for sustainable transport planning](https://docs.ropensci.org/stplanr/)
 
 ## Blogs + Articles
 
