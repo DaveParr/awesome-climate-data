@@ -7,6 +7,7 @@ Fork me, add to me, and PR me!
 
 * [UK Environmental Performance Certificates API](https://epc.opendatacommunities.org/docs/api)
 * [IPCC Data](http://ipcc-data.org/)
+* [API Client for Climate Hazards Group InfraRed Precipitation with Station Data](https://docs.ropensci.org/chirps/)
 
 ## Companies
 
