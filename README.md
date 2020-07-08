@@ -19,6 +19,7 @@ Fork me, add to me, and PR me!
 
 * [CRAN Environmetrics Task View](https://cran.r-project.org/web/views/Environmetrics.html)
 * [CRAN Hydrology Task View](https://cran.r-project.org/web/views/Hydrology.html)
+* [tidyhat](https://github.com/ropensci/tidyhydat) An R package to import Water Survey of Canada hydrometric data and make it tidy
 * [API Client for Climate Hazards Group InfraRed Precipitation with Station Data](https://docs.ropensci.org/chirps/)
 * [stplanr for sustainable transport planning](https://docs.ropensci.org/stplanr/)
 
