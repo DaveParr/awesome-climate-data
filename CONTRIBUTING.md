@@ -1,6 +1,10 @@
 ## Motivation
 
-This project was inspired by a conversation in the breakout rooms of [useR2020 Munich]() relating to an issue about visibility, discoverability and awareness of data sets, technology and tools to combat the climate emergency. [This twitter thread](https://twitter.com/useR2020muc/status/1280777655785226240) captures some of the content. In the breakout room it was discussed starting a [slack channel which you can join](https://userstackling-uny5880.slack.com/join/shared_invite/zt-fkocefo6-kkRLrPqPI5WQR5P~HLdm9A#/).
+>We are making a human curated index of easily accessible, comprehensive and up-to-date data sources, maintained and relevant programming libraries, and mission focussed open-source projects to increase our awareness and ability to act on the climate emergency.
+
+## Motivation
+
+This project was inspired by a conversation in the breakout rooms of [useR2020](https://user2020muc.r-project.org/) relating to an issue about visibility, discoverability and awareness of data sets, technology and tools to combat the climate emergency. [This twitter thread](https://twitter.com/useR2020muc/status/1280777655785226240) captures some of the content. In the breakout room it was discussed starting a [slack channel which you can join](https://userstackling-uny5880.slack.com/join/shared_invite/zt-fkocefo6-kkRLrPqPI5WQR5P~HLdm9A#/).
 
 Afterwards, I thought making this might be a useful additional resource.
 
@@ -25,12 +29,12 @@ To make this maintainable, relevant and able to be kept up to date, these are so
 ## How to contribute
 
 * Sign up for a GitHub Account
-* [fork this repo]() to your user
-* [edit the READ.ME]() using markdown
+* [fork this repo](https://guides.github.com/activities/forking/) to your user
+* [edit the READ.ME](https://guides.github.com/features/mastering-markdown/) using markdown
     + Where possible try to maintain the existing structure of the document.
     + Link to the most _generic and applicable_ location. e.g. if a company has multiple open source tools, link to the companies organisation level github account, not to the hosted front end implementation of each tool
     + Keep text as short as possible, using the name the project uses for itself. e.g. for [this site] use "Live tables on Energy Performance of Buildings Certificates" rather than "UK EPC certs (click download)"
-* [issue a pull request]() and [make your branch up to date with this fork]()
+* [issue a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests) and [make your branch up to date with this fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
 
 ## What happens then
 
