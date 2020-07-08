@@ -59,4 +59,4 @@ Fork me, add to me, and PR me!
 ## Meta
 
 * [modernising energy data wiki](https://modernisingenergydata.atlassian.net/wiki/spaces/MED/overview)
-* [Building Performance Network project map](https://building-performance.network/news/housing-performance-map-add-a-project)
+* [Building Performance Network project map](https://building-performance.network/resource/housing-performance-map)
