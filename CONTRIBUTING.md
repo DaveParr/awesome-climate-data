@@ -29,12 +29,12 @@ To make this maintainable, relevant and able to be kept up to date, these are so
 ## How to contribute
 
 * Sign up for a GitHub Account
-* [fork this repo](https://guides.github.com/activities/forking/) to your user
-* [edit the READ.ME](https://guides.github.com/features/mastering-markdown/) using markdown
+* [Fork this repo](https://guides.github.com/activities/forking/) to your user
+* [Edit the READ.ME](https://guides.github.com/features/mastering-markdown/) using markdown
     + Where possible try to maintain the existing structure of the document.
     + Link to the most _generic and applicable_ location. e.g. if a company has multiple open source tools, link to the companies organisation level github account, not to the hosted front end implementation of each tool
     + Keep text as short as possible, using the name the project uses for itself. e.g. for [this site] use "Live tables on Energy Performance of Buildings Certificates" rather than "UK EPC certs (click download)"
-* [issue a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests) and [make your branch up to date with this fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
+* [Issue a pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests) and [make your branch up to date with this fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
 
 ## What happens then
 
