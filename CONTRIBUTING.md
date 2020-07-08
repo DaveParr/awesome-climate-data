@@ -19,7 +19,7 @@ To make this maintainable, relevant and able to be kept up to date, these are so
     + ideally they should be clearly present on the page, and require very little user registration to access
     + a good example is a government data base on Environmental Performance Certificates for buildings
     + a less good example is a csv at the end of a blog post behind a pay wall
-* open source organisations contribute to analysing, predicting, or solving the climate emergency
+* open source organisations contributing to analysing, predicting, or solving the climate emergency
     + a good example is an organisation with many open source tools hosted on github
     + a less good example is a web page with a paid for access product
 * interfaces for accessing and processing relevant data
