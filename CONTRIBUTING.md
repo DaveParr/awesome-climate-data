@@ -46,11 +46,11 @@ There is a lot of information out there, but if we try to index all of it, we ma
 
 Some things will snowball very fast, and so are likely to not be included. These are things like:
 
-### twitter statuses
+### Twitter statuses
 
-They are probably very insightful, and written by intelligent people, however they can't be realistically relied upon to stay _current_, contain _easily accessible data_, or _contain useful software_. If the tweet is talking about any of those things, submit that instead <3
+They are probably very insightful, and written by intelligent people, however they can't be realistically relied upon to stay _current_, contain _easily accessible data_, or _contain useful software_. If the tweet is links to any of those things, submit that instead <3
 
-### searches in large document data bases for key words
+### Searches in large document data bases for key words
 
 Many governments have large databases of white papers as pdfs, and data sets as csv. However, _searching_ these for terms like `climate change`, `flooding` or `carbon emissions` creates problems for this project. Firstly, where do we draw the line on search terms. Is "global warming" acceptable but "natural hazard" not? Secondly, a list of search terms in a markdown file doesn't help people discover _good_ information, and simultaneously dilutes the other items in the document. If the data base is _reasonably focused_ on the topic of this project, then submit the data base. If the data base contains some useful items, submit the items. 
 
@@ -58,6 +58,6 @@ This is going to be quite hard to manage, for instance the UK has very extensive
 
 ## Feedback
 
-If you have any ideas about how to improve this project (or the process around it), please let me know. You can get me on [twitter](https://twitter.com/DaveParr), or on the [useRs Tackling Climate Change](https://userstackling-uny5880.slack.com/join/shared_invite/zt-fkocefo6-kkRLrPqPI5WQR5P~HLdm9A#/) slack group.
+If you have any ideas about how to improve this project (or the process around it), please let me know. You can open an [issue on the repo](https://guides.github.com/features/issues/) get me on [twitter](https://twitter.com/DaveParr), or on the [useRs Tackling Climate Change](https://userstackling-uny5880.slack.com/join/shared_invite/zt-fkocefo6-kkRLrPqPI5WQR5P~HLdm9A#/) slack group.
 
 
