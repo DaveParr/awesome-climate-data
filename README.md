@@ -50,6 +50,7 @@ Fork me, add to me, and PR me!
 
 * [R Open Sci Climate tag](https://ropensci.org/tags/climate/)
 * [What is it that's burning in Siberia?](https://mobile.twitter.com/DrTELS/status/1275365616401166337)
+* [Usable Buildings. Make it simple. Do it better (pdf link)](https://www.usablebuildings.co.uk/UsableBuildings/Unprotected/MakeItSimplerAndDoItBetter2.pdf)
 
 ## Communities
 
