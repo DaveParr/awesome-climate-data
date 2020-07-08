@@ -28,10 +28,6 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 * [API Client for Climate Hazards Group InfraRed Precipitation with Station Data](https://docs.ropensci.org/chirps/)
 * [stplanr for sustainable transport planning](https://docs.ropensci.org/stplanr/)
 
-## Blogs + Articles
-
-* [R Open Sci Climate tag](https://ropensci.org/tags/climate/)
-
 ## Communities
 
 * [ClimateAction.Tech](https://climateaction.tech/)
