@@ -33,7 +33,7 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 
 ## Open Source Organisations
 
-* [Open Climate Fix](https://openclimatefix.org/)
+* [Open Climate Fix](https://github.com/openclimatefix)
 * [tmrow](https://github.com/tmrowco/)
 * [ember climate (formerly sandbag climate)](https://github.com/sandbag-climate)
 
