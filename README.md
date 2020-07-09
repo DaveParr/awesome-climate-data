@@ -6,7 +6,7 @@
 
 ## Mission
 
-> We are making a human curated index of easily accessible, comprehensive and up-to-date data sources, maintained and relevant programming libraries, and mission focussed open-source projects to increase our awareness and ability to act on the climate emergency.
+> We are making a human curated index of easily accessible, comprehensive and up-to-date data sources, maintained and relevant programming libraries, and mission focussed open-source organisations to increase our awareness and ability to act on the climate emergency.
 
 ## Contributing
 
@@ -32,6 +32,7 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 * [Elexon open settlement data](https://www.elexon.co.uk/data/open-settlement-data/)
 * [data.gov Climate topic](https://catalog.data.gov/dataset?groups=climate5434&#topic=climate_navigation)
 * [London Data Store Environmental topic](https://data.london.gov.uk/dataset?topics=fb70a4e6-311c-41c1-8429-3fe27ebc928a)
+* [DataHub climate change collection](https://datahub.io/collections/climate-change)
 
 ## Open Source Organisations
 
