@@ -10,9 +10,24 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 
 ## Data Sets
 
-* [UK Environmental Performance Certificates API](https://epc.opendatacommunities.org/docs/api)
-* [IPCC Data](http://ipcc-data.org/)
+### Single Application
 
+* [UK Environmental Performance Certificates API](https://epc.opendatacommunities.org/docs/api)
+* [Jack Kelly's UK Domestic Appliance-Level Electricity (UK-DALE) dataset](https://jack-kelly.com/data/)
+* [REDD The Reference Energy Disaggregation Data Set](http://redd.csail.mit.edu/)
+* [DRED (Dutch Residential Energy Dataset)](http://www.st.ewi.tudelft.nl/akshay/dred/)
+* [AMEE (Avoidance of Mass Extinctions Engine) API](https://www.amee.com/api)
+
+### Portal
+
+* [IPCC Data](http://ipcc-data.org/)
+* [OFGEM data portal](https://www.ofgem.gov.uk/data-portal/overview)
+* [gov.uk Climate and Energy Portal](https://www.gov.uk/environment/climate-change-energy)
+* [data.gov.uk Environment topic](https://data.gov.uk/search?filters%5Btopic%5D=Environment)
+* [energydata.info datasets](https://energydata.info/dataset)
+* [Elexon open settlement data](https://www.elexon.co.uk/data/open-settlement-data/)
+* [data.gov Climate topic](https://catalog.data.gov/dataset?groups=climate5434&#topic=climate_navigation)
+* [London Data Store Environmental topic](https://data.london.gov.uk/dataset?topics=fb70a4e6-311c-41c1-8429-3fe27ebc928a)
 
 ## Open Source Organisations
 

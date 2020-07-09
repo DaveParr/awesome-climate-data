@@ -54,7 +54,7 @@ They are probably very insightful, and written by intelligent people, however th
 
 Many governments have large databases of white papers as pdfs, and data sets as csv. However, _searching_ these for terms like `climate change`, `flooding` or `carbon emissions` creates problems for this project. Firstly, where do we draw the line on search terms. Is "global warming" acceptable but "natural hazard" not? Secondly, a list of search terms in a markdown file doesn't help people discover _good_ information, and simultaneously dilutes the other items in the document. If the data base is _reasonably focused_ on the topic of this project, then submit the data base. If the data base contains some useful items, submit the items. 
 
-This is going to be quite hard to manage, for instance the UK has very extensive data available at [data.gov.uk](data.go.uk) which is only partially relevant to climate change, data access and technology. However there are far too many items to make it worth indexing each individually. Right now I think we just have to take each item on its pros and cons on a case by case basis.
+This is going to be quite hard to manage, for instance the UK has very extensive data available at [data.gov.uk](data.gov.uk) which is only partially relevant to climate change, data access and technology. However there are far too many items to make it worth indexing each individually. For now a good compromise is a 'Topic' view, for instance the 'Environment Topic' of data.gov.uk.
 
 ## Feedback
 
