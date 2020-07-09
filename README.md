@@ -31,9 +31,9 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 
 ## Open Source Organisations
 
-* [appsilon AI for Good](https://appsilon.com/ai-for-good/)
 * [Open Climate Fix](https://openclimatefix.org/)
-* [tmrow](https://www.tmrow.com/mission)
+* [tmrow](https://github.com/tmrowco/)
+* [ember climate (formerly sandbag climate)](https://github.com/sandbag-climate)
 
 ## Packages, Modules and Software
 
