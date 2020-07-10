@@ -39,6 +39,7 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 * [Open Climate Fix](https://github.com/openclimatefix)
 * [tmrow](https://github.com/tmrowco/)
 * [ember climate (formerly sandbag climate)](https://github.com/sandbag-climate)
+* [Carbon Map](https://github.com/carbonmap)
 
 ## Packages, Modules and Software
 
