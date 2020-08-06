@@ -55,3 +55,4 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 
 * [modernising energy data wiki](https://modernisingenergydata.atlassian.net/wiki/spaces/MED/overview)
 * [piazza energys curated resource list](https://github.com/piazza-energy/curated-resource-list)
+* [Project Radar by Climate Action Tech](https://airtable.com/shrMSPnwvOnINjowF/tbluarrAvsm9Tvojd)
