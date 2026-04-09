@@ -36,6 +36,10 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 * [London Data Store Environmental topic](https://data.london.gov.uk/dataset?topics=fb70a4e6-311c-41c1-8429-3fe27ebc928a)
 * [DataHub climate change collection](https://datahub.io/collections/climate-change)
 
+### Corporate Emissions
+
+* [Scope 3 Challenge — Carbon3 Registry](https://github.com/co3org/Scope3-Challenge) - Verified Scope 3 disclosures from 1,391 companies across 35 sectors (sustainability reports 2022–2025), with API access at `demo.carbon3.net/api/emissions-registry`. Accompanying knowledge base explains the methodology differences that make raw corporate GHG disclosures hard to compare directly.
+
 ## Open Source Organisations
 
 * [Open Climate Fix](https://github.com/openclimatefix)
