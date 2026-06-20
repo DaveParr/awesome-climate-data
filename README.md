@@ -23,6 +23,7 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 * [DRED (Dutch Residential Energy Dataset)](http://www.st.ewi.tudelft.nl/akshay/dred/)
 * [AMEE (Avoidance of Mass Extinctions Engine) API](https://www.amee.com/api)
 * [UK Grid Carbon Intensity Forecast API](https://api.carbonintensity.org.uk/)
+* [Reservoirs.earth – global reservoir storage & transparency data](https://reservoirs.earth/)
 
 ### Portal
 
