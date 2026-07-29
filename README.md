@@ -36,6 +36,7 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 * [data.gov Climate topic](https://catalog.data.gov/dataset?groups=climate5434&#topic=climate_navigation)
 * [London Data Store Environmental topic](https://data.london.gov.uk/dataset?topics=fb70a4e6-311c-41c1-8429-3fe27ebc928a)
 * [DataHub climate change collection](https://datahub.io/collections/climate-change)
+* [WeatherChirp – long-term historical climate data for cities worldwide](https://weatherchirp.com/)
 
 ## Open Source Organisations
 
