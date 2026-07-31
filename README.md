@@ -59,3 +59,5 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 * [modernising energy data wiki](https://modernisingenergydata.atlassian.net/wiki/spaces/MED/overview)
 * [piazza energys curated resource list](https://github.com/piazza-energy/curated-resource-list)
 * [Project Radar by Climate Action Tech](https://airtable.com/shrMSPnwvOnINjowF/tbluarrAvsm9Tvojd)
+* [ENSO Historical Dataset](https://github.com/dayu2333-jinyul/enso-historical-data) — Comprehensive monthly ENSO data (1950–2026), 126 records with ONI, SOI, subsurface temperature anomalies. CSV + JSON, CC0.
+* [ENSO Tracker Dashboard](https://elninoguide.com/dashboard) — Real-time ENSO monitoring with embeddable widget. Multi-source (NOAA/BOM/ECMWF), open source.
