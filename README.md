@@ -24,6 +24,7 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 * [AMEE (Avoidance of Mass Extinctions Engine) API](https://www.amee.com/api)
 * [UK Grid Carbon Intensity Forecast API](https://api.carbonintensity.org.uk/)
 * [Reservoirs.earth – global reservoir storage & transparency data](https://reservoirs.earth/)
+- [OpenWaterAtlas Spot–Climate–Species Dataset](https://doi.org/10.5281/zenodo.20668393) - 2,928 dive/surf/kite/freedive spots joined to 5-year per-spot daily climate aggregates (wind, air temp, precipitation; Open-Meteo/ERA5), NOAA Coral Reef Watch coral-bleaching (Degree Heating Weeks) status, and 112,548 OBIS + GBIF species occurrences. CC-BY 4.0, Zenodo DOI, mirrored on Kaggle + Hugging Face.
 
 ### Portal
 
