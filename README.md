@@ -24,6 +24,7 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 * [AMEE (Avoidance of Mass Extinctions Engine) API](https://www.amee.com/api)
 * [UK Grid Carbon Intensity Forecast API](https://api.carbonintensity.org.uk/)
 * [Reservoirs.earth – global reservoir storage & transparency data](https://reservoirs.earth/)
+* [ThaiFloodRisk.com open data – Bangkok street flooding 2021-2026, 2011 flood extent and flood risk scores for Thailand (CSV, CC BY 4.0)](https://thaifloodrisk.com/en/open-data)
 
 ### Portal
 
