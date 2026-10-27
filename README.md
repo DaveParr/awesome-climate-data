@@ -24,6 +24,7 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 * [AMEE (Avoidance of Mass Extinctions Engine) API](https://www.amee.com/api)
 * [UK Grid Carbon Intensity Forecast API](https://api.carbonintensity.org.uk/)
 * [Reservoirs.earth – global reservoir storage & transparency data](https://reservoirs.earth/)
+* [Canadian home energy rebate programs dataset](https://rebatehub.ca/data)
 
 ### Portal
 
