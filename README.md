@@ -24,6 +24,7 @@ Before proposing changes, please read the `CONTRIBUTING.MD` to understand in mor
 * [AMEE (Avoidance of Mass Extinctions Engine) API](https://www.amee.com/api)
 * [UK Grid Carbon Intensity Forecast API](https://api.carbonintensity.org.uk/)
 * [Reservoirs.earth – global reservoir storage & transparency data](https://reservoirs.earth/)
+* [US ZIP Hardiness Zone Changes 2012-2023 and Frost Dates](https://doi.org/10.5281/zenodo.23661628)
 
 ### Portal
 
